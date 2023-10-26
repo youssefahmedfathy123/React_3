@@ -1,0 +1,19 @@
+.do{
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  color: #fff;
+  cursor: pointer;
+}
+.border_red{
+  border: 2px solid red;
+}
+.arti{
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+}
+.color_white{
+color:white;
+}
+
